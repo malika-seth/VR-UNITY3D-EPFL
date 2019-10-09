@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrbreathtest.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\scatemp\\VRTutorial\\VR Breath Test\\VR Breath Test\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR Breath Test [Testing]"
+        }
+      }
+    }
+  ]
+}
